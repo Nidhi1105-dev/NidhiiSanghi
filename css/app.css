@@ -302,6 +302,18 @@ header .navbar ul li a:hover{
     transform: scale(1.2);
 }
 
+.box  {
+   
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
 .contact .row{
     display: flex;
     align-items: center;
